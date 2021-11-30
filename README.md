@@ -7,12 +7,13 @@ Get-started with digital signatures and certificates.
 
 #### Julica API
 ---
-Developer Application Toolkit
+
+#### Developer Application Toolkit
 
 #### Digital Signatures
+---
 
 Sign documents using a digital certificate
----
 
 #### OpenAPI specification
 ---
