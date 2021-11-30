@@ -22,5 +22,6 @@ The API is compatible with the OpenAPI Specification.
 
 ### Links
 
-[Getting started guide](Getting-started.md)
-[Api Documentation](api)
+- [Getting started guide](Getting-started.md)
+
+- [Api Documentation](api)
