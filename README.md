@@ -5,15 +5,15 @@
 ### Getting-started
 
 #### features:
+
 ##### Julica API
+Developer Application Toolkit
 
-###### Developer Application Toolkit
 ##### Digital Signatures
+Sign documents using a digital certificate
 
-###### Sign documents using a digital certificate
 #### OpenAPI specification
-
-###### The API is compatible with the OpenAPI Specification.
+The API is compatible with the OpenAPI Specification.
 
 ## Links
 
